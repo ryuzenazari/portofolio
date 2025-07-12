@@ -4,7 +4,7 @@ import { motion } from 'framer-motion';
 import { useTheme } from './ThemeProvider';
 
 export default function ThemeToggle() {
-  const { setTheme, resolvedTheme } = useTheme();
+ const { setTheme, resolvedTheme } = useTheme();
 
   // Mengubah tema
   const toggleTheme = () => {
