@@ -1,0 +1,16 @@
+{
+  "name": "Diha Anfeu Nio Julaynda Portfolio",
+  "short_name": "Nio Portfolio",
+  "description": "Portfolio Nio - Fullstack Developer dengan fokus pada Frontend",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2563EB",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "64x64",
+      "type": "image/x-icon"
+    }
+  ]
+}

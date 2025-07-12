@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="400" viewBox="0 0 800 400">
+  <!-- Background -->
+  <rect width="800" height="400" fill="#F97316" />
+  
+  <!-- Grid Pattern -->
+  <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+    <rect width="40" height="40" fill="#FB923C" />
+    <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#FDBA74" stroke-width="1" />
+  </pattern>
+  <rect width="800" height="400" fill="url(#grid)" opacity="0.3" />
+  
+  <!-- Project Icon -->
+  <circle cx="400" cy="160" r="60" fill="#FFFFFF" />
+  <rect x="370" y="130" width="60" height="60" rx="5" fill="#F97316" />
+  <path d="M 380 150 L 380 170 L 420 170 L 420 150 Z" fill="#FFFFFF" />
+  <rect x="390" y="140" width="20" height="5" fill="#FFFFFF" />
+  
+  <!-- Project Title -->
+  <rect x="250" y="240" width="300" height="40" rx="5" fill="#FFFFFF" opacity="0.9" />
+  <text x="400" y="265" font-family="Arial" font-size="18" font-weight="bold" fill="#F97316" text-anchor="middle">Project Placeholder</text>
+  
+  <!-- Project Description -->
+  <rect x="200" y="290" width="400" height="60" rx="5" fill="#FFFFFF" opacity="0.7" />
+  <text x="400" y="315" font-family="Arial" font-size="14" fill="#666666" text-anchor="middle">Deskripsi proyek akan ditambahkan nanti.</text>
+  <text x="400" y="335" font-family="Arial" font-size="14" fill="#666666" text-anchor="middle">Halaman ini akan diisi dengan proyek-proyek yang telah dikerjakan.</text>
+</svg>

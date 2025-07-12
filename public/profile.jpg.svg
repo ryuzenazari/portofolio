@@ -1,0 +1,6 @@
+<svg width="400" height="400" viewBox="0 0 400 400" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="400" fill="#2563EB" />
+  <circle cx="200" cy="150" r="70" fill="#F8FAFC" />
+  <path d="M200 250C133.726 250 80 303.726 80 370H320C320 303.726 266.274 250 200 250Z" fill="#F8FAFC" />
+  <text x="200" y="200" font-family="Arial" font-size="24" text-anchor="middle" fill="#F8FAFC">Nio</text>
+</svg>

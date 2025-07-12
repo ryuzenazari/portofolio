@@ -1,0 +1,29 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Next: Dev",
+      "type": "shell",
+      "command": "pnpm dev",
+      "problemMatcher": [],
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      }
+    },
+    {
+      "label": "Next: Build",
+      "type": "shell",
+      "command": "pnpm build",
+      "problemMatcher": [],
+      "group": "build"
+    },
+    {
+      "label": "Next: Lint",
+      "type": "shell",
+      "command": "pnpm lint",
+      "problemMatcher": [],
+      "group": "test"
+    }
+  ]
+}
